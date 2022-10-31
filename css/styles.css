@@ -48,7 +48,6 @@ img{
     font-weight: 700;
 }
 .header__email{
-    width: 6.25rem;
     color: var(--headings);
     font-size: 1rem;
     border: 2px solid var(--gray);
