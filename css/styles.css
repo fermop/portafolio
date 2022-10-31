@@ -1,7 +1,7 @@
 :root{
     /* Colors */
     --white: #fff;
-    --black: #111;
+    --black: #444;
     --gray: #EBEAED;
     --headings: #1E0E62;
     --fonts: rgba(21, 20, 57, 0.4);
@@ -226,6 +226,10 @@ img{
 .footer__social-icon{
     color: var(--socialicons);
     font-size: 1.375rem;
+}
+.footer__social-icon:hover{
+    transition: all ease .25s;
+    color: var(--black);
 }
 /* Responsive Design on mobiles (320px - 600px) */
 @media (max-width: 500px){
