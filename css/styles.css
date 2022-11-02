@@ -283,7 +283,8 @@ img{
     }
     .container__skills__tecnologies{
         margin-bottom: 9.0625rem;
-        display: flex;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: none;
         gap: 4.6875rem;
     }
     .container__skills__text{
