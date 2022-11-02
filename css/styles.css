@@ -165,14 +165,19 @@ img{
     grid-template-columns: 1fr;
     row-gap: 2.5rem;
 }
-.container__exp__work__img{
+.img-container{
     border-radius: 0.625rem;
+    overflow: hidden;
     margin-bottom: 1.25rem;
 }
-.container__exp__work__img:hover{
-    transition: all ease .25s;
+.img-container__img{
+    height: inherit;
+    border-radius: 0.625rem;
+}
+.img-container__img:hover{
+    transition: all ease .75s;
     opacity: .7;
-    transform: scale(1.01);
+    transform: scale(1.05);
 }
 .container__exp__work__title{
     color: var(--headings);
