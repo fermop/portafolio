@@ -142,6 +142,13 @@ img{
     text-align: center;
     margin-bottom: 1em;
 }
+.container__exp__header__text__link{
+    color: var(--black);
+}
+.container__exp__header__text__link:hover{
+    transition: all ease .25s;
+    opacity: .7;
+}
 .container__exp__header__btn{
     background-color: var(--experienceBtn);
     color: var(--white);
