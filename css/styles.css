@@ -218,6 +218,10 @@ img{
 .email-clr{
     color: var(--email);
 }
+.email-clr:hover{
+    transition: all ease .25s;
+    opacity: .7;
+}
 .footer__socials{
     width: 12.5rem;
     display: flex;
