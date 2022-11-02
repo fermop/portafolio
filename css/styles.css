@@ -162,6 +162,11 @@ img{
     border-radius: 0.625rem;
     margin-bottom: 1.25rem;
 }
+.container__exp__work__img:hover{
+    transition: all ease .25s;
+    opacity: .7;
+    transform: scale(1.01);
+}
 .container__exp__work__title{
     color: var(--headings);
     font-size: 1.375rem;
