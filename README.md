@@ -1,6 +1,6 @@
-# Hola Juniors - First Challenge
+# Portfolio
 
-This is a solution to the [first challenge](https://holajuniors.com/crear-y-vender-una-plantillas-html-y-css/), where I show who I am and what my skills are.
+This is my portfolio where I show who I am and what my skills are. It's important to highligh that I didn't make the design, my portfolio is based on the [first challenge](https://holajuniors.com/crear-y-vender-una-plantillas-html-y-css/) of [iosonomauri's](https://www.youtube.com/@iosonomauri) YouTube channel.
 
 ## Table of contents
 
@@ -14,7 +14,7 @@ This is a solution to the [first challenge](https://holajuniors.com/crear-y-vend
 
 ### Live site
 
-- Live Site Here: [https://fermop.github.io/HolaJuniors-1stChallenge/](https://fermop.github.io/HolaJuniors-1stChallenge/)
+- Live Site Here: [https://fermop.github.io/portfolio/](https://fermop.github.io/portfolio/)
 
 ## My process
 
@@ -24,6 +24,7 @@ This is a solution to the [first challenge](https://holajuniors.com/crear-y-vend
 - CSS custom properties
 - Grid
 - Flexbox
+- Normalize
 - Mobile-first workflow
 - BEM methodology
 
