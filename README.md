@@ -14,7 +14,7 @@ This is my portfolio where I show who I am and what my skills are. It's importan
 
 ### Live site
 
-- Live Site Here: [https://fermop.github.io/portfolio/](https://fermop.github.io/portfolio/)
+- Live Site Here: [https://fermop.github.io/portafolio/](https://fermop.github.io/portafolio/)
 
 ## My process
 
